@@ -1,4 +1,4 @@
-baseURL = "https://laughing-poitras-40db15.netlify.app/"
+baseURL = "https://goldpumpkin.netlify.app/"
 title   = "Gold"
 languageCode = "en-us"
 theme = "hello-friend-ng"
@@ -36,8 +36,8 @@ disableHugoGeneratorInject = false
 [permalinks]
   posts = "/posts/:year/:month/:title/"
 
-[author]
-  name = "Jane Doe"
+#[author]
+#  name = "Jane Doe"
 
 [blackfriday]
   hrefTargetBlank = true
@@ -61,7 +61,7 @@ disableHugoGeneratorInject = false
 
   # Home subtitle of the index page.
   #
-  homeSubtitle = "Hello Friend NG"
+  homeSubtitle = "吾心安处是吾乡"
 
   # Set a background for the homepage
   # backgroundImage = "assets/images/background.jpg"
@@ -111,8 +111,6 @@ disableHugoGeneratorInject = false
 
     topText = []
     bottomText = [
-      "Powered by <a href=\"http://gohugo.io\">Hugo</a>",
-      "Made with &#10084; by <a href=\"https://github.com/rhazdon\">Djordje Atlialp</a>"
     ]
 
   # Colors for favicons
@@ -154,23 +152,23 @@ disableHugoGeneratorInject = false
   # Social icons
   [[params.social]]
     name = "twitter"
-    url  = "https://twitter.com/"
+    url  = "https://twitter.com/JinKing14554156"
 
   [[params.social]]
     name = "email"
-    url  = "mailto:nobody@example.com"
+    url  = "mailto:goldhuang24@gmail.com"
 
   [[params.social]]
     name = "github"
-    url  = "https://github.com/"
+    url  = "https://github.com/goldpumpkin"
 
-  [[params.social]]
-    name = "linkedin"
-    url  = "https://www.linkedin.com/"
+#  [[params.social]]
+#    name = "linkedin"
+#    url  = "https://www.linkedin.com/"
 
-  [[params.social]]
-    name = "stackoverflow"
-    url  = "https://www.stackoverflow.com/"
+#  [[params.social]]
+#    name = "stackoverflow"
+#    url  = "https://www.stackoverflow.com/"
 
 [languages]
   [languages.en]
