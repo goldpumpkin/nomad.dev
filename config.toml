@@ -142,6 +142,13 @@ disableHugoGeneratorInject = false
   # [params.commento]
   #   url = ""
 
+  ## 配置 utteranc评论,教程参考 https://utteranc.es/
+  [params.utteranc]
+    enable = false
+    repo = "goldpumpkin/goldpumpkin.github.io"
+    issueTerm = "title"
+    theme = "github-light"
+
   # Uncomment this if you want a portrait on your start page
   #
   # [params.portrait]
