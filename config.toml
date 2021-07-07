@@ -144,7 +144,7 @@ disableHugoGeneratorInject = false
 
   ## 配置 utteranc评论,教程参考 https://utteranc.es/
   [params.utteranc]
-    enable = false
+    enable = true
     repo = "goldpumpkin/goldpumpkin.github.io"
     issueTerm = "title"
     theme = "github-light"
