@@ -252,7 +252,7 @@ hystrix.threadpool.default.queueSizeRejectionThreshold=1000
 
 `maximumSize` 配置是否生效取决于 `maxQueueSize` 和 `queueSizeRejectionThreshold ` 这两个配置
 
-+ `maxQueueSize` = -1， hytrix使用同步队列，从而`queueSizeRejectionThreshold `也没用，`maximumSize`是生效的
++ `maxQueueSize` = -1， hytrix不使用同步队列，从而`queueSizeRejectionThreshold `也没用，`maximumSize`是生效的
 
 + `maxQueueSize` >=0 
 
