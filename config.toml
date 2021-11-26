@@ -145,9 +145,9 @@ disableHugoGeneratorInject = false
   ## 配置 utteranc评论,教程参考 https://utteranc.es/
   [params.utteranc]
     enable = true
-    repo = "goldpumpkin/goldpumpkin.github.io"
+    repo = "goldpumpkin/nomad.dev"
     issueTerm = "title"
-    theme = "github-light"
+    theme = "github-dark"
 
   # Uncomment this if you want a portrait on your start page
   #
