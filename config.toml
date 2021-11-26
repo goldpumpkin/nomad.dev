@@ -1,4 +1,4 @@
-baseURL = "https://goldpumpkin.netlify.app/"
+baseURL = "https://www.smallgolden.com"
 title   = "Gold"
 languageCode = "en-us"
 theme = "hello-friend-ng"
@@ -61,7 +61,7 @@ disableHugoGeneratorInject = false
 
   # Home subtitle of the index page.
   #
-  homeSubtitle = "吾心安处是吾乡"
+  homeSubtitle = "此心安处是吾乡"
 
   # Set a background for the homepage
   # backgroundImage = "assets/images/background.jpg"
