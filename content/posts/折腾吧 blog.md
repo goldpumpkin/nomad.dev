@@ -41,7 +41,7 @@ date : "2021-11-26"
 + 评论系统：utteranc
 + 域名：www.smallgolden.com
 
-## Bolg 的各个时期
+## My Blog 的各个时期
 
 + 2017/05/20 --- Born
 + Born ~ 2020/07/14 --- 假死状态
